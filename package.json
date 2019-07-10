@@ -1,0 +1,14 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/saulossg/problems.git",
+  "author": "Saulo Gomes <saulossg@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
